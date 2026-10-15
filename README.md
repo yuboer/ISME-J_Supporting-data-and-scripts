@@ -1,4 +1,6 @@
-# Supporting Data and Scripts: Dark CO2 Fixation via the Ethylmalonyl-CoA Pathway Establishes Metabolic Parity: A Stoichiometric Basis for Compounding Ecosystem Shifts
+# Supporting Data and Scripts
+
+Manuscript Title: Dark CO2 Fixation via the Ethylmalonyl-CoA Pathway Establishes Metabolic Parity: A Stoichiometric Basis for Compounding Ecosystem Shifts
 
 This repository contains all bioinformatic code, raw gene annotations, metaproteomic datasets, and imaging archives supporting the manuscript revisions. Specifically, the repository includes:
 

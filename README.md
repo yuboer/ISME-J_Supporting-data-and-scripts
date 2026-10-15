@@ -2,7 +2,7 @@
 
 Manuscript Title: Dark CO2 Fixation via the Ethylmalonyl-CoA Pathway Establishes Metabolic Parity: A Stoichiometric Basis for Compounding Ecosystem Shifts
 
-This repository contains all bioinformatic code, raw gene annotations, metaproteomic datasets, and imaging archives supporting the manuscript revisions. Specifically, the repository includes:
+This repository contains all bioinformatic code, raw gene annotations, metaproteomic datasets, and imaging archives supporting the manuscript. Specifically, the repository includes:
 
 1) **Workflow Code & Scripts:** Executable bioinformatic pipelines for metagenomic processing, assembly, binning, and functional annotation (`/Scripts for metagenomics`).
 2) **Annotated Genes in Genomes:** Full amino acid sequences and functional annotations across Pfam, EC, COG, and KEGG (`/Concatanated_genes_and_function_annotation_results`).

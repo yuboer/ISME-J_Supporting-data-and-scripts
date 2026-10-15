@@ -1,4 +1,4 @@
-# Supporting Data and Scripts: ISME-J Revision (ISMEJ-D-26-01980)
+# Supporting Data and Scripts: ISME-J [Dark CO2 Fixation via the Ethylmalonyl-CoA Pathway Establishes Metabolic Parity: A Stoichiometric Basis for Compounding Ecosystem Shifts]
 
 This repository contains all bioinformatic code, raw gene annotations, metaproteomic datasets, and imaging archives supporting the manuscript revisions. Specifically, the repository includes:
 

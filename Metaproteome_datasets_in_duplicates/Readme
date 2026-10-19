@@ -12,7 +12,7 @@ Shotgun metaproteome profile matrices across the three operational reactor phase
 | :--- | :--- | :--- | :--- |
 | **Phase FA00** | Baseline EBPR (Acetate sole carbon source) | 0 : 1 | `FA00_01.txt`, `FA00_02.txt` |
 | **Phase FA01** | Transient co-feeding phase | 0.1 : 1 | `FA01_01.txt`, `FA01_02.txt` |
-| **Phase FA02** | Pseudo-steady state co-feeding phase | 0.2 : 1 | `FA02_01.txt`, `FA02_02.txt` |
+| **Phase FA02** | 3.5 SRTs after formate co-feeding  | 0.2 : 1 | `FA02_01.txt`, `FA02_02.txt` |
 
 ---
 

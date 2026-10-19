@@ -4,7 +4,7 @@ In this directory, we provide high-temporal-resolution online continuous offgas 
 Although online offgas monitoring was active continuously throughout the operational project, full-cycle datasets for representative EBPR cycles at each key experimental phase are provided:
 
 * **FA00:** Baseline phase (acetate as sole carbon substrate)
-* **FA01:** Transient phase (formate co-fed at 0.1:1 molar ratio to acetate)
+* **FA01:** Transient test to confirm formate has no acute toxicity to the system (formate co-fed at 0.1:1 molar ratio to acetate)
 * **FA02:** Shifted steady state (~3 SRTs after continuous formate co-feeding at 0.2:1 molar ratio to acetate)
 
 ---
